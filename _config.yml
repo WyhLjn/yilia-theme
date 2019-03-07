@@ -72,7 +72,7 @@ google_analytics: ''
 favicon: /favicon.ico
 
 #你的头像url
-avatar: /img/avatar.jpg
+avatar: /img/avatar.JPG
 
 #是否开启分享
 share_jia: true
