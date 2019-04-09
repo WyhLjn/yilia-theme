@@ -3,7 +3,7 @@
 menu:
   主页: /
   博客: /archives
-  随笔: /tags/随笔/
+  #随笔: /tags/随笔/
   关于我: /about
   #标签: /tags
   #分类: /categories
@@ -83,6 +83,9 @@ share_jia: true
 
 #1、多说
 duoshuo: false
+
+#是否开启云标签
+tagcloud: true
 
 #2、网易云跟帖
 wangyiyun: false
